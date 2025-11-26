@@ -89,6 +89,16 @@ Install the Required plugins in Jenkins
 
 Wait for the Jenkins to be restarted.
 
+## tools 
+    *jdk
+    *sonarqube
+    *nodejs
+    *docker
+    
+
+## imp
+<img width="1852" height="849" alt="image" src="https://github.com/user-attachments/assets/abe41f9b-0ddc-4f06-8ae3-c942bf18e1ae" />
+
 
 ## Install Docker:
 
@@ -354,7 +364,7 @@ kubectl get secret argocd-initial-admin-secret -n argocd \
 
 * **Username**: `admin`
 * **Password**: (above decoded)
-
+<img width="1905" height="984" alt="image" src="https://github.com/user-attachments/assets/83a43307-7c56-41fd-86f2-4ec68fea3c71" />
 
 
 Click on ``CREATE APPLICATION``
